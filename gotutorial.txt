@@ -1,0 +1,36 @@
+Go / Golang Crash Course
+https://www.youtube.com/watch?v=SqrbIlUwR0U
+
+Learn Go in 12 Minutes
+https://www.youtube.com/watch?v=C8LgvuEBraI
+
+Concurrency in Go
+https://www.youtube.com/watch?v=LvgVSSpwND8
+
+golang.org
+$go help
+
+
+go folder(workspace)
+    pkg (third party package/library)
+    bin (for binary-compiled file)
+    src 
+        github.com (version control)
+            nikhomgithub
+                gobrad(project)
+
+คำสั่งที่ใช้ในการรัน
+$cd 01_hello
+$go run main.go (รันตามด้วยชื่อไฟล์)
+
+$go build (เป็นการคอมไฟล์ แล้วไฟล์ จะเป็น exe ไฟล์ ซึ่งรันบน  terminal  $./ชื่อไฟล์ exe
+
+$./jake_wriight
+
+
+หรือใช้ คำสั่ง 
+$go install
+เราจะได้ไฟล์ รวมทั้ง package ใน bin folder เลย
+
+
+
